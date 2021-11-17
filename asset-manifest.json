@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/rapita-olha/-goit-react-hw-01-components.git/static/css/main.0c7b3d12.chunk.css",
+    "main.js": "/rapita-olha/-goit-react-hw-01-components.git/static/js/main.be3023dc.chunk.js",
+    "main.js.map": "/rapita-olha/-goit-react-hw-01-components.git/static/js/main.be3023dc.chunk.js.map",
+    "runtime-main.js": "/rapita-olha/-goit-react-hw-01-components.git/static/js/runtime-main.5ef164f3.js",
+    "runtime-main.js.map": "/rapita-olha/-goit-react-hw-01-components.git/static/js/runtime-main.5ef164f3.js.map",
+    "static/js/2.ba2793d3.chunk.js": "/rapita-olha/-goit-react-hw-01-components.git/static/js/2.ba2793d3.chunk.js",
+    "static/js/2.ba2793d3.chunk.js.map": "/rapita-olha/-goit-react-hw-01-components.git/static/js/2.ba2793d3.chunk.js.map",
+    "index.html": "/rapita-olha/-goit-react-hw-01-components.git/index.html",
+    "static/css/main.0c7b3d12.chunk.css.map": "/rapita-olha/-goit-react-hw-01-components.git/static/css/main.0c7b3d12.chunk.css.map",
+    "static/js/2.ba2793d3.chunk.js.LICENSE.txt": "/rapita-olha/-goit-react-hw-01-components.git/static/js/2.ba2793d3.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.5ef164f3.js",
+    "static/js/2.ba2793d3.chunk.js",
+    "static/css/main.0c7b3d12.chunk.css",
+    "static/js/main.be3023dc.chunk.js"
+  ]
+}
